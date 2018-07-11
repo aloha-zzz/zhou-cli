@@ -1,0 +1,28 @@
+{
+  "name": "my-Cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/test.js",
+  "bin": {
+    "myCli": "bin/init.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouhaoxiang/my-Cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouhaoxiang/my-Cli/issues"
+  },
+  "homepage": "https://github.com/zhouhaoxiang/my-Cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0",
+    "inquirer": "^6.0.0"
+  }
+}
