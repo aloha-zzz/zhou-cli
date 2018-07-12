@@ -1,10 +1,10 @@
 {
   "name": "my-Cli",
   "version": "1.0.0",
-  "description": "",
-  "main": "bin/test.js",
+  "description": "React Koa",
+  "main": "bin/init.js",
   "bin": {
-    "myCli": "bin/init.js"
+    "CLI": "bin/init.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/zhouhaoxiang/my-Cli.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "zhouhaoxiang",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zhouhaoxiang/my-Cli/issues"
