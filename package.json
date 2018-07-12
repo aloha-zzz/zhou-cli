@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhouhaoxiang/my-Cli.git"
+    "url": "git+https://github.com/zhouhaoxiang/zhou-cli.git"
   },
   "keywords": [],
   "author": "zhouhaoxiang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhouhaoxiang/my-Cli/issues"
+    "url": "https://github.com/zhouhaoxiang/zhou-cli/issues"
   },
-  "homepage": "https://github.com/zhouhaoxiang/my-Cli#readme",
+  "homepage": "https://github.com/zhouhaoxiang/zhou-cli#readme",
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.16.0",
