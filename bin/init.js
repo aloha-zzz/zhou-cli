@@ -2,19 +2,18 @@
 
 const program = require('commander');
 const chalk = require('chalk');
-const talk = require('./../lib/talk')
+const { select } = require('./../lib/talk')
 
-console.log(chalk.green('hello '));
-
+console.log(chalk.green('Cli start'));
 program
-  .version('1.0.0', '-v, --version')
+  .version(require('../package').version, '-v, --version')
 
 program
     .command('init')
     .alias('i')
     .description('创建新的项目')
     .action(() => {
-        talk()
+        select()
     })
   
 program.parse(process.argv)
