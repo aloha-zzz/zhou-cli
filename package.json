@@ -1,5 +1,5 @@
 {
-  "name": "my-Cli",
+  "name": "zhou-cli",
   "version": "1.0.0",
   "description": "React Koa",
   "main": "bin/init.js",
