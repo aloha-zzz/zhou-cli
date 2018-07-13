@@ -1,6 +1,6 @@
 {
   "name": "zhou-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Koa",
   "main": "bin/init.js",
   "bin": {
